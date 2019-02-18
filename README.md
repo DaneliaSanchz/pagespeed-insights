@@ -1,2 +1,2 @@
-# desarrollo-web-portafolio
-Proyecto realizado 
+# WPO
+Ejemplo práctico del curso de WPO: Optimización de Carga de Sitios Web
